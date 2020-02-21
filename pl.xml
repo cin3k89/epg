@@ -1,0 +1,2956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TVP 1">
+    <display-name lang="pl">TVP 1 HD</display-name>
+    <icon src="https://epg.ovh/logo/TVP+1.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVP1.pl">
+    <display-name lang="pl">PL: TVP 1 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+1.png"/></channel>
+  <channel id="tvp1.pl">
+    <display-name lang="pl">TVP1</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+1.png"/></channel>
+  <channel id="TVP 1 HD">
+    <display-name lang="pl">TVP 1</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+1.png"/></channel>
+  <channel id="TVP 2">
+    <display-name lang="pl">TVP 2 HD</display-name>
+    <icon src="https://epg.ovh/logo/TVP+2.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVP2.pl">
+    <display-name lang="pl">PL: TVP 2 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+2.png"/></channel>
+  <channel id="tvp2.pl">
+    <display-name lang="pl">TVP2</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+2.png"/></channel>
+  <channel id="TVP 2 HD">
+    <display-name lang="pl">TVP 2</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+2.png"/></channel>
+  <channel id="Polsat">
+    <display-name lang="pl">Polsat</display-name>
+    <icon src="https://epg.ovh/logo/Polsat.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Polsat.pl">
+    <display-name lang="pl">Polsat HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat.png"/></channel>
+  <channel id="Polsata.pl">
+    <display-name lang="pl">PL: Polsat HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat.png"/></channel>
+  <channel id="polsat.pl">
+    <display-name lang="pl">Polsat1 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat.png"/></channel>
+  <channel id="TV 4">
+    <display-name lang="pl">TV 4</display-name>
+    <icon src="https://epg.ovh/logo/TV+4.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TV4.pl">
+    <display-name lang="pl">TV 4 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TV+4.png"/></channel>
+  <channel id="tv4.pl">
+    <display-name lang="pl">PL: TV4 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TV+4.png"/></channel>
+  <channel id="TV4HD">
+    <display-name lang="pl">TV4 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TV+4.png"/></channel>
+  <channel id="Tele 5">
+    <display-name lang="pl">Tele 5 HD</display-name>
+    <icon src="https://epg.ovh/logo/Tele+5.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Tele5.pl">
+    <display-name lang="pl">PL: Tele 5</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Tele+5.png"/></channel>
+  <channel id="Tele5">
+    <display-name lang="pl">Tele 5</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Tele+5.png"/></channel>
+  <channel id="TV 6">
+    <display-name lang="pl">TV 6 HD</display-name>
+    <icon src="https://epg.ovh/logo/TV+6.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TV6.pl">
+    <display-name lang="pl">TV 6</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TV+6.png"/></channel>
+  <channel id="tv6.pl">
+    <display-name lang="pl">PL: TV6</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TV+6.png"/></channel>
+  <channel id="TVN 7">
+    <display-name lang="pl">TVN 7 HD</display-name>
+    <icon src="https://epg.ovh/logo/TVN+7.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVN7.pl">
+    <display-name lang="pl">PL: TVN 7</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN+7.png"/></channel>
+  <channel id="tvn7.pl">
+    <display-name lang="pl">PL: TVN 7 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN+7.png"/></channel>
+  <channel id="tvn7a.pl">
+    <display-name lang="pl">TVN 7</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN+7.png"/></channel>
+  <channel id="TVN">
+    <display-name lang="pl">TVN</display-name>
+    <icon src="https://epg.ovh/logo/TVN.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVN.pl">
+    <display-name lang="pl">TVN HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN.png"/></channel>
+  <channel id="tvn.pl">
+    <display-name lang="pl">PL: TVN</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN.png"/></channel>
+  <channel id="TV Puls">
+    <display-name lang="pl">TV Puls</display-name>
+    <icon src="https://epg.ovh/logo/TV+Puls.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVPuls.pl">
+    <display-name lang="pl">PL: PULS HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TV+Puls.png"/></channel>
+  <channel id="tvpuls.pl">
+    <display-name lang="pl">TV Puls HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TV+Puls.png"/></channel>
+  <channel id="Puls 2">
+    <display-name lang="pl">Puls 2</display-name>
+    <icon src="https://epg.ovh/logo/Puls+2.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVPuls2.pl">
+    <display-name lang="pl">PL: Puls 2</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Puls+2.png"/></channel>
+  <channel id="Puls2.pl">
+    <display-name lang="pl">TV Puls 2</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Puls+2.png"/></channel>
+  <channel id="tvpuls2.pl">
+    <display-name lang="pl">Puls 2 PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Puls+2.png"/></channel>
+  <channel id="TTV">
+    <display-name lang="pl">TTV HD</display-name>
+    <icon src="https://epg.ovh/logo/TTV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TTV.pl">
+    <display-name lang="pl">TTV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TTV.png"/></channel>
+  <channel id="TTV.PL">
+    <display-name lang="pl">PL: TTV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TTV.png"/></channel>
+  <channel id="Fokus TV">
+    <display-name lang="pl">Fokus TV</display-name>
+    <icon src="https://epg.ovh/logo/Fokus+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="FokusTV.pl">
+    <display-name lang="pl">FokusTV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Fokus+TV.png"/></channel>
+  <channel id="fokustv.pl">
+    <display-name lang="pl">PL: FOKUS TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Fokus+TV.png"/></channel>
+  <channel id="HGTV">
+    <display-name lang="pl">HGTV HD</display-name>
+    <icon src="https://epg.ovh/logo/HGTV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="HGTV.pl">
+    <display-name lang="pl">HGTV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/HGTV.png"/></channel>
+  <channel id="hgtv.pl">
+    <display-name lang="pl">PL: HGTV HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/HGTV.png"/></channel>
+  <channel id="ATM Rozrywka">
+    <display-name lang="pl">ATM Rozrywka</display-name>
+    <icon src="https://epg.ovh/logo/ATM+Rozrywka.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="ATMRozrywka.pl">
+    <display-name lang="pl">PL: ATM Rozrywka</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/ATM+Rozrywka.png"/></channel>
+  <channel id="atmRozrywka.pl">
+    <display-name lang="pl">ATM Rozrywka PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/ATM+Rozrywka.png"/></channel>
+  <channel id="Super Polsat">
+    <display-name lang="pl">Super Polsat HD</display-name>
+    <icon src="https://epg.ovh/logo/Super+Polsat.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="SuperPolsat.pl">
+    <display-name lang="pl">PL: Super Polsat HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Super+Polsat.png"/></channel>
+  <channel id="TVP HD">
+    <display-name lang="pl">TVP HD</display-name>
+    <icon src="https://epg.ovh/logo/TVP+HD.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVPHD.pl">
+    <display-name lang="pl">PL: TVP HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+HD.png"/></channel>
+  <channel id="TVP.pl">
+    <display-name lang="pl">TVP FHD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+HD.png"/></channel>
+  <channel id="TVP 4K">
+    <display-name lang="pl">TVP 4K</display-name>
+    <icon src="https://epg.ovh/logo/TVP+4K.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVP Rozrywka">
+    <display-name lang="pl">TVP Rozrywka</display-name>
+    <icon src="https://epg.ovh/logo/TVP+Rozrywka.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVPRozrywka.pl">
+    <display-name lang="pl">PL: TVP Rozrywka</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+Rozrywka.png"/></channel>
+  <channel id="TVP Historia">
+    <display-name lang="pl">TVP Historia</display-name>
+    <icon src="https://epg.ovh/logo/TVP+Historia.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVPHistoria.pl">
+    <display-name lang="pl">PL: TVP Historia</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+Historia.png"/></channel>
+  <channel id="TVP Seriale">
+    <display-name lang="pl">TVP Seriale</display-name>
+    <icon src="https://epg.ovh/logo/TVP+Seriale.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVPSeriale.pl">
+    <display-name lang="pl">PL: TVP Seriale</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+Seriale.png"/></channel>
+  <channel id="TVP Kultura">
+    <display-name lang="pl">TVP Kultura</display-name>
+    <icon src="https://epg.ovh/logo/TVP+Kultura.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVPKultura.pl">
+    <display-name lang="pl">PL: TVP-Kultura</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+Kultura.png"/></channel>
+  <channel id="TVP Polonia">
+    <display-name lang="pl">TVP Polonia</display-name>
+    <icon src="https://epg.ovh/logo/TVP+Polonia.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVPPolonia.pl">
+    <display-name lang="pl">TVP Polonia FHD PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+Polonia.png"/></channel>
+  <channel id="TVPolonia.pl">
+    <display-name lang="pl">PL: TV Polonia</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+Polonia.png"/></channel>
+  <channel id="METRO">
+    <display-name lang="pl">Metro</display-name>
+    <icon src="https://epg.ovh/logo/METRO.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Metro.pl">
+    <display-name lang="pl">PL: Metro</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/METRO.png"/></channel>
+  <channel id="ZOOM TV">
+    <display-name lang="pl">Zoom TV HD</display-name>
+    <icon src="https://epg.ovh/logo/ZOOM+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="ZoomTV.pl">
+    <display-name lang="pl">Zoom TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/ZOOM+TV.png"/></channel>
+  <channel id="zoomtv.pl">
+    <display-name lang="pl">PL: Zoom TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/ZOOM+TV.png"/></channel>
+  <channel id="WP">
+    <display-name lang="pl">Telewizja WP HD</display-name>
+    <icon src="https://epg.ovh/logo/WP.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="WPTelewizja.pl">
+    <display-name lang="pl">WP</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/WP.png"/></channel>
+  <channel id="WP.pl">
+    <display-name lang="pl">PL: WP</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/WP.png"/></channel>
+  <channel id="NOWA TV">
+    <display-name lang="pl">Nowa TV</display-name>
+    <icon src="https://epg.ovh/logo/NOWA+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="NowaTV.pl">
+    <display-name lang="pl">PL: NOWA TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/NOWA+TV.png"/></channel>
+  <channel id="Polsat 1">
+    <display-name lang="pl">Polsat 1</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+1.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Polsat 2">
+    <display-name lang="pl">Polsat 2 HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+2.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Polsat2.pl">
+    <display-name lang="pl">PL: Polsat 2 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+2.png"/></channel>
+  <channel id="polsat2.pl">
+    <display-name lang="pl">Polsat 2</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+2.png"/></channel>
+  <channel id="NTL Radomsko">
+    <display-name lang="pl">NTL Radomsko</display-name>
+    <icon src="https://epg.ovh/logo/NTL+Radomsko.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="NTLRadomsko.pl">
+    <display-name lang="pl">PL: NTL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/NTL+Radomsko.png"/></channel>
+  <channel id="TBN POLSKA">
+    <display-name lang="pl">TBN Polska HD</display-name>
+    <icon src="https://epg.ovh/logo/TBN+POLSKA.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TBN">
+    <display-name lang="pl">PL: TBN HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TBN+POLSKA.png"/></channel>
+  <channel id="TBNpolska.pl">
+    <display-name lang="pl">TBN Polska</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TBN+POLSKA.png"/></channel>
+  <channel id="Polonia 1">
+    <display-name lang="pl">Polonia 1</display-name>
+    <icon src="https://epg.ovh/logo/Polonia+1.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Polonia1.pl">
+    <display-name lang="pl">PL: Polonia 1</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polonia+1.png"/></channel>
+  <channel id="TVS">
+    <display-name lang="pl">TVS</display-name>
+    <icon src="https://epg.ovh/logo/TVS.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVS.pl">
+    <display-name lang="pl">PL: TVS</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVS.png"/></channel>
+  <channel id="TVR">
+    <display-name lang="pl">TVR HD</display-name>
+    <icon src="https://epg.ovh/logo/TVR.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVR.pl">
+    <display-name lang="pl">TVR</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVR.png"/></channel>
+  <channel id="BBC First">
+    <display-name lang="pl">BBC First</display-name>
+    <icon src="https://epg.ovh/logo/BBC+First.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="BBC.pl">
+    <display-name lang="pl">BBC First HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/BBC+First.png"/></channel>
+  <channel id="BBCHD.pl">
+    <display-name lang="pl">PL: BBC HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/BBC+First.png"/></channel>
+  <channel id="FOX">
+    <display-name lang="pl">FOX</display-name>
+    <icon src="https://epg.ovh/logo/FOX.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="FOX.pl">
+    <display-name lang="pl">FOX HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/FOX.png"/></channel>
+  <channel id="fox.pl">
+    <display-name lang="pl">PL: FOX HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/FOX.png"/></channel>
+  <channel id="Fox.pl">
+    <display-name lang="pl">Fox HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/FOX.png"/></channel>
+  <channel id="Comedy Central">
+    <display-name lang="pl">Comedy Central HD</display-name>
+    <icon src="https://epg.ovh/logo/Comedy+Central.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="ComedyCentral.pl">
+    <display-name lang="pl">PL: Comedy Central HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Comedy+Central.png"/></channel>
+  <channel id="comedycentral.pl">
+    <display-name lang="pl">Comedy Central</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Comedy+Central.png"/></channel>
+  <channel id="Comedy Central Family">
+    <display-name lang="pl">Comedy Central Family HD</display-name>
+    <icon src="https://epg.ovh/logo/Comedy+Central+Family.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="ComedyCentralFamily.pl">
+    <display-name lang="pl">PL: CC Family</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Comedy+Central+Family.png"/></channel>
+  <channel id="ComedyCentralFamily">
+    <display-name lang="pl">Comedy Central Family</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Comedy+Central+Family.png"/></channel>
+  <channel id="FOX Comedy">
+    <display-name lang="pl">Fox Comedy HD</display-name>
+    <icon src="https://epg.ovh/logo/FOX+Comedy.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="FoxComedy.pl">
+    <display-name lang="pl">FOX Comedy</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/FOX+Comedy.png"/></channel>
+  <channel id="foxcomedya.pl">
+    <display-name lang="pl">FOX Comedy HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/FOX+Comedy.png"/></channel>
+  <channel id="FOXComedy.pl">
+    <display-name lang="pl">PL: Fox Comedy HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/FOX+Comedy.png"/></channel>
+  <channel id="Canal+1">
+    <display-name lang="pl">Canal+ 1 HD</display-name>
+    <icon src="https://epg.ovh/logo/Canal%2b1.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CanalplusFamily2.pl">
+    <display-name lang="pl">PL: Canal+ 1 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b1.png"/></channel>
+  <channel id="Canal+1.pl">
+    <display-name lang="pl">CANAL+ 1 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b1.png"/></channel>
+  <channel id="Canal+">
+    <display-name lang="pl">Canal+ HD</display-name>
+    <icon src="https://epg.ovh/logo/Canal%2b.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CANAL+.pl">
+    <display-name lang="pl">PL: Canal + HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b.png"/></channel>
+  <channel id="CanalPlus.pl">
+    <display-name lang="pl">CANAL+</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b.png"/></channel>
+  <channel id="Canalplus.pl">
+    <display-name lang="pl">CANAL+ HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b.png"/></channel>
+  <channel id="Canal+.pl">
+    <display-name lang="pl">Canal+</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b.png"/></channel>
+  <channel id="Canal+ Film">
+    <display-name lang="pl">Canal+ Film HD</display-name>
+    <icon src="https://epg.ovh/logo/Canal%2b+Film.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CANAL+Film.pl">
+    <display-name lang="pl">CANAL+ Film HD </display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Film.png"/></channel>
+  <channel id="CanalPlusFilm.pl">
+    <display-name lang="pl">CANAL+ Film</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Film.png"/></channel>
+  <channel id="CanalplusFilm.pl">
+    <display-name lang="pl">PL: Canal+ Film HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Film.png"/></channel>
+  <channel id="Canal+Film.pl">
+    <display-name lang="pl">Canal+ Film</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Film.png"/></channel>
+  <channel id="Canal+ Family">
+    <display-name lang="pl">Canal+ Family HD</display-name>
+    <icon src="https://epg.ovh/logo/Canal%2b+Family.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CANAL+Family.pl">
+    <display-name lang="pl">PL: Canal+ Family HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Family.png"/></channel>
+  <channel id="CanalplusFamily.pl">
+    <display-name lang="pl">CANAL+ Family HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Family.png"/></channel>
+  <channel id="Canal+Family.pl">
+    <display-name lang="pl">Canal+ Family</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Family.png"/></channel>
+  <channel id="Canal+ Seriale">
+    <display-name lang="pl">Canal+ Seriale HD</display-name>
+    <icon src="https://epg.ovh/logo/Canal%2b+Seriale.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CANAL+Seriale.pl">
+    <display-name lang="pl">CANAL+ Seriale HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Seriale.png"/></channel>
+  <channel id="CanalPlusSeriale.pl">
+    <display-name lang="pl">PL: Canal+ Seriale HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Seriale.png"/></channel>
+  <channel id="Canal+Seriale.pl">
+    <display-name lang="pl">Canal+ Seriale</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Seriale.png"/></channel>
+  <channel id="Canal+ 4K">
+    <display-name lang="pl">Canal+ 4K</display-name>
+    <icon src="https://epg.ovh/logo/Canal%2b+4K.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Canalplus4K.pl">
+    <display-name lang="pl">Canal+ 4K ULTRA HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+4K.png"/></channel>
+  <channel id="CanalPlus4k.pl">
+    <display-name lang="pl">Canal+ 4k (Ultra HD)</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+4K.png"/></channel>
+  <channel id="Canalplus4k.pl">
+    <display-name lang="pl">PL: CANAL+ 4K ULTRA HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+4K.png"/></channel>
+  <channel id="HBO">
+    <display-name lang="pl">HBO HD</display-name>
+    <icon src="https://epg.ovh/logo/HBO.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="HBO.pl">
+    <display-name lang="pl">PL: HBO HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/HBO.png"/></channel>
+  <channel id="hbo.pl">
+    <display-name lang="pl">HBO 1 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/HBO.png"/></channel>
+  <channel id="HBO HD">
+    <display-name lang="pl">HBO</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/HBO.png"/></channel>
+  <channel id="HBO2">
+    <display-name lang="pl">HBO 2 HD</display-name>
+    <icon src="https://epg.ovh/logo/HBO2.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="HBO2.pl">
+    <display-name lang="pl">PL: HBO 2 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/HBO2.png"/></channel>
+  <channel id="hbo2.pl">
+    <display-name lang="pl">HBO2 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/HBO2.png"/></channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="pl">HBO2</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/HBO2.png"/></channel>
+  <channel id="hbo2b.pl">
+    <display-name lang="pl">HBO 2</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/HBO2.png"/></channel>
+  <channel id="HBO3">
+    <display-name lang="pl">HBO 3 HD</display-name>
+    <icon src="https://epg.ovh/logo/HBO3.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="HBO3.pl">
+    <display-name lang="pl">PL: HBO 3 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/HBO3.png"/></channel>
+  <channel id="hbo3.pl">
+    <display-name lang="pl">HBO3 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/HBO3.png"/></channel>
+  <channel id="HBO 3 HD">
+    <display-name lang="pl">HBO 3</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/HBO3.png"/></channel>
+  <channel id="Cinemax">
+    <display-name lang="pl">Cinemax HD</display-name>
+    <icon src="https://epg.ovh/logo/Cinemax.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Cinemax.pl">
+    <display-name lang="pl">Cinemax 1 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Cinemax.png"/></channel>
+  <channel id="CinemaxHD.pl">
+    <display-name lang="pl">PL: Cinemax HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Cinemax.png"/></channel>
+  <channel id="cinemax.pl">
+    <display-name lang="pl">Cinemax</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Cinemax.png"/></channel>
+  <channel id="Cinemax 2">
+    <display-name lang="pl">Cinemax 2 HD</display-name>
+    <icon src="https://epg.ovh/logo/Cinemax+2.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Cinemax2.pl">
+    <display-name lang="pl">PL: Cinemax 2 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Cinemax+2.png"/></channel>
+  <channel id="cinemax2.pl">
+    <display-name lang="pl">Cinemax 2</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Cinemax+2.png"/></channel>
+  <channel id="Polsat Film">
+    <display-name lang="pl">Polsat Film HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Film.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatFilm.pl">
+    <display-name lang="pl">Polsat Film</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Film.png"/></channel>
+  <channel id="polsatfilm.pl">
+    <display-name lang="pl">PL: Polsat Film HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Film.png"/></channel>
+  <channel id="TVN Fabula">
+    <display-name lang="pl">TVN Fabula HD</display-name>
+    <icon src="https://epg.ovh/logo/TVN+Fabula.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVNFabula.pl">
+    <display-name lang="pl">PL: TVN Fabula HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN+Fabula.png"/></channel>
+  <channel id="tvnfabula.pl">
+    <display-name lang="pl">PL: TVN Fabula</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN+Fabula.png"/></channel>
+  <channel id="TVNFabuła.pl">
+    <display-name lang="pl">TVN Fabula</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN+Fabula.png"/></channel>
+  <channel id="tvnfabuła.pl">
+    <display-name lang="pl">TVN Fabuła</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN+Fabula.png"/></channel>
+  <channel id="Kino Polska">
+    <display-name lang="pl">Kino Polska</display-name>
+    <icon src="https://epg.ovh/logo/Kino+Polska.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="KinoPolska.pl">
+    <display-name lang="pl">Kino Polska HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Kino+Polska.png"/></channel>
+  <channel id="kinopolska.pl">
+    <display-name lang="pl">PL: KINO POLSKA</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Kino+Polska.png"/></channel>
+  <channel id="Paramount Channel">
+    <display-name lang="pl">Paramount Channel HD</display-name>
+    <icon src="https://epg.ovh/logo/Paramount+Channel.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="ParamountChannel.pl">
+    <display-name lang="pl">PL: Paramount Channel HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Paramount+Channel.png"/></channel>
+  <channel id="Paramount.pl">
+    <display-name lang="pl">Paramount Channel</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Paramount+Channel.png"/></channel>
+  <channel id="AMC">
+    <display-name lang="pl">AMC HD</display-name>
+    <icon src="https://epg.ovh/logo/AMC.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="AMC.pl">
+    <display-name lang="pl">PL: AMC</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/AMC.png"/></channel>
+  <channel id="AMCa.pl">
+    <display-name lang="pl">AMC</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/AMC.png"/></channel>
+  <channel id="TNT">
+    <display-name lang="pl">TNT HD</display-name>
+    <icon src="https://epg.ovh/logo/TNT.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TNT.pl">
+    <display-name lang="pl">PL: TNT HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TNT.png"/></channel>
+  <channel id="tnt.pl">
+    <display-name lang="pl">TNT HD PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TNT.png"/></channel>
+  <channel id="Ale Kino+">
+    <display-name lang="pl">Ale Kino+ HD</display-name>
+    <icon src="https://epg.ovh/logo/Ale+Kino%2b.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Alekino+">
+    <display-name lang="pl">PL: Ale Kino+ HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Ale+Kino%2b.png"/></channel>
+  <channel id="AleKino.pl">
+    <display-name lang="pl">Ale Kino FHD PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Ale+Kino%2b.png"/></channel>
+  <channel id="Ale kino+HD">
+    <display-name lang="pl">Ale kino+ HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Ale+Kino%2b.png"/></channel>
+  <channel id="Stopklatka TV">
+    <display-name lang="pl">Stopklatka HD</display-name>
+    <icon src="https://epg.ovh/logo/Stopklatka+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Stopklatka.pl">
+    <display-name lang="pl">Stopklatka TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Stopklatka+TV.png"/></channel>
+  <channel id="StopklatkaTV.pl">
+    <display-name lang="pl">PL: Stopklatka TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Stopklatka+TV.png"/></channel>
+  <channel id="Sundance TV">
+    <display-name lang="pl">Sundance Channel HD</display-name>
+    <icon src="https://epg.ovh/logo/Sundance+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="SundanceTV.pl">
+    <display-name lang="pl">Sundance TV HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Sundance+TV.png"/></channel>
+  <channel id="SundanceChannel.pl">
+    <display-name lang="pl">PL: Sundance Tv</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Sundance+TV.png"/></channel>
+  <channel id="Scifi Universal">
+    <display-name lang="pl">SciFi HD</display-name>
+    <icon src="https://epg.ovh/logo/Scifi+Universal.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="ScifiUniversal.pl">
+    <display-name lang="pl">PL: SciFi</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Scifi+Universal.png"/></channel>
+  <channel id="SciFi.pl">
+    <display-name lang="pl">SciFi</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Scifi+Universal.png"/></channel>
+  <channel id="13 Ulica">
+    <display-name lang="pl">13 Ulica HD</display-name>
+    <icon src="https://epg.ovh/logo/13+Ulica.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="13Ulica.pl">
+    <display-name lang="pl">PL: 13 Ulica HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/13+Ulica.png"/></channel>
+  <channel id="13ulica.pl">
+    <display-name lang="pl">13 Ulica</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/13+Ulica.png"/></channel>
+  <channel id="AXN">
+    <display-name lang="pl">AXN HD</display-name>
+    <icon src="https://epg.ovh/logo/AXN.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="AXN.pl">
+    <display-name lang="pl">PL: AXN</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/AXN.png"/></channel>
+  <channel id="axn.pl">
+    <display-name lang="pl">PL: AXN HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/AXN.png"/></channel>
+  <channel id="AXN Black">
+    <display-name lang="pl">AXN Black</display-name>
+    <icon src="https://epg.ovh/logo/AXN+Black.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="AXNBlack.pl">
+    <display-name lang="pl">PL: AXN Black</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/AXN+Black.png"/></channel>
+  <channel id="AXN Spin">
+    <display-name lang="pl">AXN Spin HD</display-name>
+    <icon src="https://epg.ovh/logo/AXN+Spin.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="AXNSpin.pl">
+    <display-name lang="pl">PL: AXN SPIN HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/AXN+Spin.png"/></channel>
+  <channel id="AXNSpinHD.pl">
+    <display-name lang="pl">AXN Spin PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/AXN+Spin.png"/></channel>
+  <channel id="AXN White">
+    <display-name lang="pl">AXN White</display-name>
+    <icon src="https://epg.ovh/logo/AXN+White.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="AXNWhite.pl">
+    <display-name lang="pl">PL: AXN White</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/AXN+White.png"/></channel>
+  <channel id="CBS Action">
+    <display-name lang="pl">CBS Action</display-name>
+    <icon src="https://epg.ovh/logo/CBS+Action.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CBSAction.pl">
+    <display-name lang="pl">PL: CBS Action</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/CBS+Action.png"/></channel>
+  <channel id="CBS Europa">
+    <display-name lang="pl">CBS Europa HD</display-name>
+    <icon src="https://epg.ovh/logo/CBS+Europa.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CBSEuropa.pl">
+    <display-name lang="pl">PL: CBS Europa HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/CBS+Europa.png"/></channel>
+  <channel id="Kino TV">
+    <display-name lang="pl">Kino TV</display-name>
+    <icon src="https://epg.ovh/logo/Kino+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="KinoTV.pl">
+    <display-name lang="pl">Kino Tv HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Kino+TV.png"/></channel>
+  <channel id="KINOTV.pl">
+    <display-name lang="pl">PL: Kino Tv</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Kino+TV.png"/></channel>
+  <channel id="FilmBox Action">
+    <display-name lang="pl">Filmbox Action</display-name>
+    <icon src="https://epg.ovh/logo/FilmBox+Action.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="FilmboxAction.pl">
+    <display-name lang="pl">Filmbox Action HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/FilmBox+Action.png"/></channel>
+  <channel id="FilmBoxAction.pl">
+    <display-name lang="pl">PL: Filmbox Action</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/FilmBox+Action.png"/></channel>
+  <channel id="Filmbox Arthouse">
+    <display-name lang="pl">Filmbox Arthouse HD</display-name>
+    <icon src="https://epg.ovh/logo/Filmbox+Arthouse.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="FilmboxArthouse.pl">
+    <display-name lang="pl">Filmbox Arthouse</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Filmbox+Arthouse.png"/></channel>
+  <channel id="FilmboxArthousea.pl">
+    <display-name lang="pl">PL: Filmbox Arthouse</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Filmbox+Arthouse.png"/></channel>
+  <channel id="Filmbox Extra HD">
+    <display-name lang="pl">Filmbox Extra HD</display-name>
+    <icon src="https://epg.ovh/logo/Filmbox+Extra+HD.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="FilmboxExtra.pl">
+    <display-name lang="pl">Filmbox Extra</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Filmbox+Extra+HD.png"/></channel>
+  <channel id="FilmboxExtraHD.pl">
+    <display-name lang="pl">PL: FILMBOX EXTRA HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Filmbox+Extra+HD.png"/></channel>
+  <channel id="Filmbox Family">
+    <display-name lang="pl">Filmbox Family</display-name>
+    <icon src="https://epg.ovh/logo/Filmbox+Family.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="FilmboxFamily.pl">
+    <display-name lang="pl">PL: Filmbox Family</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Filmbox+Family.png"/></channel>
+  <channel id="Filmbox Premium">
+    <display-name lang="pl">Filmbox Premium HD</display-name>
+    <icon src="https://epg.ovh/logo/Filmbox+Premium.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="FilmBoxPremium.pl">
+    <display-name lang="pl">FilmBox Premium HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Filmbox+Premium.png"/></channel>
+  <channel id="FilmboxPremium.pl">
+    <display-name lang="pl">PL: Filmbox Premium</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Filmbox+Premium.png"/></channel>
+  <channel id="Bollywood HD">
+    <display-name lang="pl">Bollywood HD</display-name>
+    <icon src="https://epg.ovh/logo/Bollywood+HD.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="NOVELA TV">
+    <display-name lang="pl">Novela TV</display-name>
+    <icon src="https://epg.ovh/logo/NOVELA+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Nowela.pl">
+    <display-name lang="pl">Novela TV HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/NOVELA+TV.png"/></channel>
+  <channel id="POLSAT ROMANS">
+    <display-name lang="pl">Polsat Romans</display-name>
+    <icon src="https://epg.ovh/logo/POLSAT+ROMANS.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatRomans.pl">
+    <display-name lang="pl">Polsat Romans HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/POLSAT+ROMANS.png"/></channel>
+  <channel id="polsatromans.pl">
+    <display-name lang="pl">PL: Polsat Romans</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/POLSAT+ROMANS.png"/></channel>
+  <channel id="ROMANCE TV">
+    <display-name lang="pl">Romance TV HD</display-name>
+    <icon src="https://epg.ovh/logo/ROMANCE+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="RomanceTV.pl">
+    <display-name lang="pl">Romance TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/ROMANCE+TV.png"/></channel>
+  <channel id="romancetv.pl">
+    <display-name lang="pl">PL: Romance TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/ROMANCE+TV.png"/></channel>
+  <channel id="Epic Drama">
+    <display-name lang="pl">Epic Drama HD</display-name>
+    <icon src="https://epg.ovh/logo/Epic+Drama.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="EpicDrama.pl">
+    <display-name lang="pl">PL: Epic Drama HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Epic+Drama.png"/></channel>
+  <channel id="EPICDrama.pl">
+    <display-name lang="pl">Epic Drama</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Epic+Drama.png"/></channel>
+  <channel id="VOD 202">
+    <display-name lang="pl">VOD 202</display-name>
+    <icon src="https://epg.ovh/logo/VOD+202.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PPV VOD 202">
+    <display-name lang="pl">PL: VOD 202</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/VOD+202.png"/></channel>
+  <channel id="VOD 203">
+    <display-name lang="pl">VOD 203</display-name>
+    <icon src="https://epg.ovh/logo/VOD+203.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PPV VOD 203">
+    <display-name lang="pl">PL: VOD 203</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/VOD+203.png"/></channel>
+  <channel id="VOD 204">
+    <display-name lang="pl">VOD 204</display-name>
+    <icon src="https://epg.ovh/logo/VOD+204.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PPV VOD 204">
+    <display-name lang="pl">PL: VOD 204</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/VOD+203.png"/></channel>
+  <channel id="VOD 205">
+    <display-name lang="pl">VOD 205</display-name>
+    <icon src="https://epg.ovh/logo/VOD+205.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PPV VOD 205">
+    <display-name lang="pl">Polsat VOD 205</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/VOD+205.png"/></channel>
+  <channel id="PL: VOD 205">
+    <display-name lang="pl">PL: VOD 205</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/VOD+205.png"/></channel>
+  <channel id="VOD 206">
+    <display-name lang="pl">VOD 206</display-name>
+    <icon src="https://epg.ovh/logo/VOD+206.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PPV VOD 206">
+    <display-name lang="pl">Polsat VOD 206</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/VOD+206.png"/></channel>
+  <channel id="PL: VOD 206">
+    <display-name lang="pl">PL: VOD 206</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/VOD+206.png"/></channel>
+  <channel id="VOD 207">
+    <display-name lang="pl">VOD 207</display-name>
+    <icon src="https://epg.ovh/logo/VOD+207.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PPV VOD 207">
+    <display-name lang="pl">Polsat VOD 207</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/VOD+207.png"/></channel>
+  <channel id="VOD 208">
+    <display-name lang="pl">VOD 208</display-name>
+    <icon src="https://epg.ovh/logo/VOD+208.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PPV VOD 208">
+    <display-name lang="pl">Polsat VOD 208</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/VOD+208.png"/></channel>
+  <channel id="PL: VOD 208">
+    <display-name lang="pl">PL: VOD 208</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/VOD+208.png"/></channel>
+  <channel id="VOD 212">
+    <display-name lang="pl">VOD 212</display-name>
+    <icon src="https://epg.ovh/logo/VOD+212.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PPV VOD 212">
+    <display-name lang="pl">PL: VOD 212</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/VOD+212.png"/></channel>
+  <channel id="History 2">
+    <display-name lang="pl">H2 HD</display-name>
+    <icon src="https://epg.ovh/logo/History+2.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="pl">History 2</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/History+2.png"/></channel>
+  <channel id="H2.pl">
+    <display-name lang="pl">PL: H2 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/History+2.png"/></channel>
+  <channel id="HISTORY">
+    <display-name lang="pl">History HD</display-name>
+    <icon src="https://epg.ovh/logo/HISTORY.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="History.pl">
+    <display-name lang="pl">PL: History HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/HISTORY.png"/></channel>
+  <channel id="History HD">
+    <display-name lang="pl">History</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/HISTORY.png"/></channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pl">Discovery Channel HD</display-name>
+    <icon src="https://epg.ovh/logo/Discovery+Channel.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Discovery.pl">
+    <display-name lang="pl">PL: Discovery HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Discovery+Channel.png"/></channel>
+  <channel id="DiscoveryChannel.pl">
+    <display-name lang="pl">PL: Discovery Channel</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Discovery+Channel.png"/></channel>
+  <channel id="discoverychannel.pl">
+    <display-name lang="pl">Discovery PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Discovery+Channel.png"/></channel>
+  <channel id="discovery.pl">
+    <display-name lang="pl">Discovery Channel</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Discovery+Channel.png"/></channel>
+  <channel id="Discovery Science">
+    <display-name lang="pl">Discovery Science HD</display-name>
+    <icon src="https://epg.ovh/logo/Discovery+Science.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="DiscoveryScience.pl">
+    <display-name lang="pl">PL: Discovery Science HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Discovery+Science.png"/></channel>
+  <channel id="discoveryscience.pl">
+    <display-name lang="pl">Discovery Science</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Discovery+Science.png"/></channel>
+  <channel id="Discovery Historia">
+    <display-name lang="pl">Discovery Historia</display-name>
+    <icon src="https://epg.ovh/logo/Discovery+Historia.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="DiscoveryHistoria.pl">
+    <display-name lang="pl">PL: Discovery Historia</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Discovery+Historia.png"/></channel>
+  <channel id="DTX">
+    <display-name lang="pl">DTX HD</display-name>
+    <icon src="https://epg.ovh/logo/DTX.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="DiscoveryTurboXtra.pl">
+    <display-name lang="pl">PL: DTX</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/DTX.png"/></channel>
+  <channel id="BBC Brit">
+    <display-name lang="pl">BBC Brit HD</display-name>
+    <icon src="https://epg.ovh/logo/BBC+Brit.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="BBCBrit.pl">
+    <display-name lang="pl">BBC Brit</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/BBC+Brit.png"/></channel>
+  <channel id="BBC Brit FHD PL">
+    <display-name lang="pl">PL: BBC BRIT</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/BBC+Brit.png"/></channel>
+  <channel id="BBC Earth">
+    <display-name lang="pl">BBC Earth HD</display-name>
+    <icon src="https://epg.ovh/logo/BBC+Earth.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="BBCEarth.pl">
+    <display-name lang="pl">PL: BBC Earth HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/BBC+Earth.png"/></channel>
+  <channel id="TVN Turbo">
+    <display-name lang="pl">TVN Turbo HD</display-name>
+    <icon src="https://epg.ovh/logo/TVN+Turbo.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVNTurbo.pl">
+    <display-name lang="pl">PL: TVN Turbo</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN+Turbo.png"/></channel>
+  <channel id="tvnturbo.pl">
+    <display-name lang="pl">TVN Turbo HD PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN+Turbo.png"/></channel>
+  <channel id="TVNTurbo">
+    <display-name lang="pl">TVN Turbo</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN+Turbo.png"/></channel>
+  <channel id="Motowizja">
+    <display-name lang="pl">Motowizja HD</display-name>
+    <icon src="https://epg.ovh/logo/Motowizja.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="MotorsTV.pl">
+    <display-name lang="pl">Motowizja TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Motowizja.png"/></channel>
+  <channel id="MotowizjaTV.pl">
+    <display-name lang="pl">PL: Motowizja</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Motowizja.png"/></channel>
+  <channel id="Motowizja.pl">
+    <display-name lang="pl">Motorwizja PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Motowizja.png"/></channel>
+  <channel id="Planete+">
+    <display-name lang="pl">Planete+ HD</display-name>
+    <icon src="https://epg.ovh/logo/Planete%2b.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PlanetePlus.pl">
+    <display-name lang="pl">Planete HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Planete%2b.png"/></channel>
+  <channel id="Planete+.pl">
+    <display-name lang="pl">PL: Planete+ HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Planete%2b.png"/></channel>
+  <channel id="PLANETE.pl">
+    <display-name lang="pl">Planete HD PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Planete%2b.png"/></channel>
+  <channel id="Planete.pl">
+    <display-name lang="pl">Planete+</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Planete%2b.png"/></channel>
+  <channel id="Polsat Play">
+    <display-name lang="pl">Polsat Play HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Play.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatPlay.pl">
+    <display-name lang="pl">PL: Polsat Play HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Play.png"/></channel>
+  <channel id="polsatplay.pl">
+    <display-name lang="pl">Polsat Play PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Play.png"/></channel>
+  <channel id="polsatplaya.pl">
+    <display-name lang="pl">Polsat Play</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Play.png"/></channel>
+  <channel id="Polsat Doku">
+    <display-name lang="pl">Polsat Doku HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Doku.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatDoku.pl">
+    <display-name lang="pl">PL: Polsat Doku</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Doku.png"/></channel>
+  <channel id="polsatdoku.pl">
+    <display-name lang="pl">Polsat Doku</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Doku.png"/></channel>
+  <channel id="Canal+ Discovery">
+    <display-name lang="pl">Canal+ Discovery HD</display-name>
+    <icon src="https://epg.ovh/logo/Canal%2b+Discovery.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CanalplusDiscovery.pl">
+    <display-name lang="pl">Canal+ Dokument HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Discovery.png"/></channel>
+  <channel id="Canal+Discovery.pl">
+    <display-name lang="pl">Canal+ Discovery</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Discovery.png"/></channel>
+  <channel id="Canal+ Dokument">
+    <display-name lang="pl">PL: Canal+ HD Dokument</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Discovery.png"/></channel>
+  <channel id="DOCUBOX">
+    <display-name lang="pl">DocuBox HD</display-name>
+    <icon src="https://epg.ovh/logo/DOCUBOX.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Docubox.pl">
+    <display-name lang="pl">Docubox HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/DOCUBOX.png"/></channel>
+  <channel id="CBS REALITY POLSKA">
+    <display-name lang="pl">CBS Reality</display-name>
+    <icon src="https://epg.ovh/logo/CBS+REALITY+POLSKA.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CBSReality.pl">
+    <display-name lang="pl">PL: CBS Reality</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/CBS+REALITY+POLSKA.png"/></channel>
+  <channel id="ID">
+    <display-name lang="pl">ID HD</display-name>
+    <icon src="https://epg.ovh/logo/ID.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="InvestigationDiscovery.pl">
+    <display-name lang="pl">PL: ID HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/ID.png"/></channel>
+  <channel id="Polsat Crime">
+    <display-name lang="pl">CI Polsat HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Crime.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CrimeInvestigation.pl">
+    <display-name lang="pl">Crime &amp; Investigation PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Crime.png"/></channel>
+  <channel id="crimeinvestigationa.pl">
+    <display-name lang="pl">PL: Crime and Investigation HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Crime.png"/></channel>
+  <channel id="CIPolsat.pl">
+    <display-name lang="pl">CI Polsat</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Crime.png"/></channel>
+  <channel id="National Geographic Channel">
+    <display-name lang="pl">National Geographic HD</display-name>
+    <icon src="https://epg.ovh/logo/National+Geographic+Channel.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="NatGeo.pl">
+    <display-name lang="pl">National Geographic</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/National+Geographic+Channel.png"/></channel>
+  <channel id="NationalGeographic.pl">
+    <display-name lang="pl">PL: National Geographic HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/National+Geographic+Channel.png"/></channel>
+  <channel id="Nat Geo People">
+    <display-name lang="pl">Nat Geo People HD</display-name>
+    <icon src="https://epg.ovh/logo/Nat+Geo+People.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="NatGeoPeople.pl">
+    <display-name lang="pl">PL: Nat Geo People HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Nat+Geo+People.png"/></channel>
+  <channel id="natgeopeople.pl">
+    <display-name lang="pl">Nat Geo People</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Nat+Geo+People.png"/></channel>
+  <channel id="National Geographic Wild">
+    <display-name lang="pl">Nat Geo Wild HD</display-name>
+    <icon src="https://epg.ovh/logo/National+Geographic+Wild.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="NatGeoWild.pl">
+    <display-name lang="pl">WILD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/National+Geographic+Wild.png"/></channel>
+  <channel id="NatGeoWildHD.pl">
+    <display-name lang="pl">Nat Geo Wild</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/National+Geographic+Wild.png"/></channel>
+  <channel id="Nat Geo Wild">
+    <display-name lang="pl">PL: Nat Geo Wild HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/National+Geographic+Wild.png"/></channel>
+  <channel id="natgeowild.pl">
+    <display-name lang="pl">National Geographic Wild</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/National+Geographic+Wild.png"/></channel>
+  <channel id="POLSAT Viasat Explore">
+    <display-name lang="pl">Polsat Viasat Explore HD</display-name>
+    <icon src="https://epg.ovh/logo/POLSAT+Viasat+Explore.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="ViasatExplore.pl">
+    <display-name lang="pl">Polsat Viasat Explore FHD PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/POLSAT+Viasat+Explore.png"/></channel>
+  <channel id="ViasatExplorer.pl">
+    <display-name lang="pl">PL: Polsat Viasat Explore HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/POLSAT+Viasat+Explore.png"/></channel>
+  <channel id="polsatviasatexplore.pl">
+    <display-name lang="pl">Polsat Viasat Explore</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/POLSAT+Viasat+Explore.png"/></channel>
+  <channel id="Polsat Viasat History">
+    <display-name lang="pl">Polsat Viasat History HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Viasat+History.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatViasatHistory.pl">
+    <display-name lang="pl">PL: Polsat Viasat History HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Viasat+History.png"/></channel>
+  <channel id="ViasatHistory.pl">
+    <display-name lang="pl">Polsat Viasat History FHD PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Viasat+History.png"/></channel>
+  <channel id="polsaviasathistory.pl">
+    <display-name lang="pl">Polsat Viasat History</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Viasat+History.png"/></channel>
+  <channel id="Polsat Viasat Nature">
+    <display-name lang="pl">Polsat Viasat Nature HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Viasat+Nature.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="ViasatNature.pl">
+    <display-name lang="pl">Polsat Viasat Nature</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Viasat+Nature.png"/></channel>
+  <channel id="PolsatViasatNature.pl">
+    <display-name lang="pl">PL: Polsat Viasat Nature HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Viasat+Nature.png"/></channel>
+  <channel id="Animal Planet">
+    <display-name lang="pl">Animal Planet HD</display-name>
+    <icon src="https://epg.ovh/logo/Animal+Planet.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="AnimalPlanet.pl">
+    <display-name lang="pl">PL: Animal Planet HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Animal+Planet.png"/></channel>
+  <channel id="animalplanet.pl">
+    <display-name lang="pl">Animal Planet</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Animal+Planet.png"/></channel>
+  <channel id="Love Nature">
+    <display-name lang="pl">Love Nature</display-name>
+    <icon src="https://epg.ovh/logo/Love+Nature.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="LoveNature.nl">
+    <display-name lang="pl">Love Nature 4K</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Love+Nature.png"/></channel>
+  <channel id="NASA">
+    <display-name lang="pl">NASA TV</display-name>
+    <icon src="https://epg.ovh/logo/NASA.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="NASA TV UHD">
+    <display-name lang="pl">NASA TV UHD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/NASA.png"/></channel>
+  <channel id="4KUNIVERSE">
+    <display-name lang="pl">Universe UHD</display-name>
+    <icon src="https://epg.ovh/logo/4KUNIVERSE.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="InsightUHD.eu">
+    <display-name lang="pl">Insight UHD</display-name>
+    <icon src="https://epg.ovh/logo/InsightUHD.eu.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Active Family">
+    <display-name lang="pl">Active Family</display-name>
+    <icon src="https://epg.ovh/logo/Active+Family.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="ActiveFamily.pl">
+    <display-name lang="pl">PL: Active Family</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Active+Family.png"/></channel>
+  <channel id="activefamily.pl">
+    <display-name lang="pl">Active Family PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Active+Family.png"/></channel>
+  <channel id="Adventure">
+    <display-name lang="pl">Adventure TV HD</display-name>
+    <icon src="https://epg.ovh/logo/Adventure.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Adventure.pl">
+    <display-name lang="pl">Adventure HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Adventure.png"/></channel>
+  <channel id="adventure.pl">
+    <display-name lang="pl">PL: Adventure</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Adventure.png"/></channel>
+  <channel id="Discovery Life">
+    <display-name lang="pl">Discovery Life HD</display-name>
+    <icon src="https://epg.ovh/logo/Discovery+Life.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="DiscoveryLife.pl">
+    <display-name lang="pl">PL: Discovery Life HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Discovery+Life.png"/></channel>
+  <channel id="BBC Lifestyle">
+    <display-name lang="pl">BBC Lifestyle HD</display-name>
+    <icon src="https://epg.ovh/logo/BBC+Lifestyle.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="BBCLifestyle.pl">
+    <display-name lang="pl">PL: BBC LIFESTYLE HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/BBC+Lifestyle.png"/></channel>
+  <channel id="Lifetime">
+    <display-name lang="pl">Lifetime HD</display-name>
+    <icon src="https://epg.ovh/logo/Lifetime.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Lifetime.pl">
+    <display-name lang="pl">PL: Lifetime HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Lifetime.png"/></channel>
+  <channel id="STUDIOMED TV">
+    <display-name lang="pl">STUDIOMED TV</display-name>
+    <icon src="https://epg.ovh/logo/STUDIOMED+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="STUDIOMEDTV.pl">
+    <display-name lang="pl">StudioMed TV HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/STUDIOMED+TV.png"/></channel>
+  <channel id="Wellbeing Network">
+    <display-name lang="pl">Wellbeing</display-name>
+    <icon src="https://epg.ovh/logo/Wellbeing+Network.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="WellbeingNetwork.pl">
+    <display-name lang="pl">Wellbeing PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Wellbeing+Network.png"/></channel>
+  <channel id="TVN Style">
+    <display-name lang="pl">TVN Style HD</display-name>
+    <icon src="https://epg.ovh/logo/TVN+Style.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVNStyle.pl">
+    <display-name lang="pl">PL: TVN Style HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN+Style.png"/></channel>
+  <channel id="tvnstyle.pl">
+    <display-name lang="pl">PL: TVN Style</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN+Style.png"/></channel>
+  <channel id="TVNStyle">
+    <display-name lang="pl">TVN Style</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN+Style.png"/></channel>
+  <channel id="Polsat Cafe">
+    <display-name lang="pl">Polsat Cafe HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Cafe.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatCafe.pl">
+    <display-name lang="pl">PL: Polsat Cafe HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Cafe.png"/></channel>
+  <channel id="polsatcafe.pl">
+    <display-name lang="pl">Polsat Cafe</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Cafe.png"/></channel>
+  <channel id="Polsat Rodzina">
+    <display-name lang="pl">Polsat Rodzina HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Rodzina.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatRodzina.pl">
+    <display-name lang="pl">PL: Polsat Rodzina</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Rodzina.png"/></channel>
+  <channel id="PolsatRodzina">
+    <display-name lang="pl">Polsat Rodzina</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Rodzina.png"/></channel>
+  <channel id="Red Carpet TV">
+    <display-name lang="pl">Red Carpet TV HD</display-name>
+    <icon src="https://epg.ovh/logo/Red+Carpet+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="RedCarpetTV.pl">
+    <display-name lang="pl">Red Carpet TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Red+Carpet+TV.png"/></channel>
+  <channel id="Love TV">
+    <display-name lang="pl">Love TV HD</display-name>
+    <icon src="https://epg.ovh/logo/Love+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Travel Channel">
+    <display-name lang="pl">Travel Channel HD</display-name>
+    <icon src="https://epg.ovh/logo/Travel+Channel.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TravelChannel.pl">
+    <display-name lang="pl">Travel HD PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Travel+Channel.png"/></channel>
+  <channel id="Travel.pl">
+    <display-name lang="pl">PL: Travel Channel HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Travel+Channel.png"/></channel>
+  <channel id="Travel XP">
+    <display-name lang="pl">Travelxp HD</display-name>
+    <icon src="https://epg.ovh/logo/Travel+XP.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pl">TLC HD</display-name>
+    <icon src="https://epg.ovh/logo/TLC.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TLC.pl">
+    <display-name lang="pl">PL: TLC HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TLC.png"/></channel>
+  <channel id="tlc.pl">
+    <display-name lang="pl">TLC</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TLC.png"/></channel>
+  <channel id="Nobox TV">
+    <display-name lang="pl">Nobox TV HD</display-name>
+    <icon src="https://epg.ovh/logo/Nobox+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="MANGO">
+    <display-name lang="pl">Mango 24</display-name>
+    <icon src="https://epg.ovh/logo/MANGO.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TV OKAZJE">
+    <display-name lang="pl">TV Okazje</display-name>
+    <icon src="https://epg.ovh/logo/TV+OKAZJE.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVO.pl">
+    <display-name lang="pl">TV Okazje PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TV+OKAZJE.png"/></channel>
+  <channel id="tvo.pl">
+    <display-name lang="pl">TVO</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TV+OKAZJE.png"/></channel>
+  <channel id="EzoTV">
+    <display-name lang="pl">EzoTV</display-name>
+    <icon src="https://epg.ovh/logo/EzoTV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Food Network">
+    <display-name lang="pl">Food Network HD</display-name>
+    <icon src="https://epg.ovh/logo/Food+Network.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Polsat Food Network">
+    <display-name lang="pl">Food Network</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Food+Network.png"/></channel>
+  <channel id="PolsatFood.pl">
+    <display-name lang="pl">PL: Food Network</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Food+Network.png"/></channel>
+  <channel id="Kuchnia+">
+    <display-name lang="pl">Kuchnia+ HD</display-name>
+    <icon src="https://epg.ovh/logo/Kuchnia%2b.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="KuchniaPlus.pl">
+    <display-name lang="pl">PL: Kuchnia+ HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Kuchnia%2b.png"/></channel>
+  <channel id="KUCHNIA.TV.pl">
+    <display-name lang="pl">Kuchnia</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Kuchnia%2b.png"/></channel>
+  <channel id="Kuchnia+.pl">
+    <display-name lang="pl">Kuchnia+</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Kuchnia%2b.png"/></channel>
+  <channel id="Domo+">
+    <display-name lang="pl">Domo+</display-name>
+    <icon src="https://epg.ovh/logo/Domo%2b.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="DomoTV.pl">
+    <display-name lang="pl">PL: Domo TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Domo%2b.png"/></channel>
+  <channel id="Domo+HD">
+    <display-name lang="pl">Domo+ HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Domo%2b.png"/></channel>
+  <channel id="WATER PLANET">
+    <display-name lang="pl">Water Planet</display-name>
+    <icon src="https://epg.ovh/logo/WATER+PLANET.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="WaterPlanet.pl">
+    <display-name lang="pl">PL: Water Planet</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/WATER+PLANET.png"/></channel>
+  <channel id="Fashion TV">
+    <display-name lang="pl">Fashion TV HD</display-name>
+    <icon src="https://epg.ovh/logo/Fashion+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="E! Entertainment">
+    <display-name lang="pl">E! Entertainment HD</display-name>
+    <icon src="https://epg.ovh/logo/E!+Entertainment.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="E!.pl">
+    <display-name lang="pl">PL: E! Entertainment</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/E!+Entertainment.png"/></channel>
+  <channel id="E! HD">
+    <display-name lang="pl">E! Entertainment</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/E!+Entertainment.png"/></channel>
+  <channel id="Da Vinci Learning">
+    <display-name lang="pl">Da Vinci Learning HD</display-name>
+    <icon src="https://epg.ovh/logo/Da+Vinci+Learning.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="DaVinciLearning.pl">
+    <display-name lang="pl">Da Vinci Learning</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Da+Vinci+Learning.png"/></channel>
+  <channel id="davincilearning.pl">
+    <display-name lang="pl">PL: Da Vinci Learning</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Da+Vinci+Learning.png"/></channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pl">Cartoon Network HD</display-name>
+    <icon src="https://epg.ovh/logo/Cartoon+Network.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CartoonNetwork.pl">
+    <display-name lang="pl">PL: Cartoon Network HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Cartoon+Network.png"/></channel>
+  <channel id="cartoonnetwork.pl">
+    <display-name lang="pl">Cartoon Network</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Cartoon+Network.png"/></channel>
+  <channel id="Boomerang">
+    <display-name lang="pl">Boomerang HD</display-name>
+    <icon src="https://epg.ovh/logo/Boomerang.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Boomerang.pl">
+    <display-name lang="pl">PL: Boomerang</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Boomerang.png"/></channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pl">Nickelodeon</display-name>
+    <icon src="https://epg.ovh/logo/Nickelodeon.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Nickelodeon.pl">
+    <display-name lang="pl">Nickelodeon Polska</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Nickelodeon.png"/></channel>
+  <channel id="NickelodeonHD.pl">
+    <display-name lang="pl">PL: Nickelodeon HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Nickelodeon.png"/></channel>
+  <channel id="Nicktoons">
+    <display-name lang="pl">Nicktoons HD</display-name>
+    <icon src="https://epg.ovh/logo/Nicktoons.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Nicktoons Polska">
+    <display-name lang="pl">Nicktoons Polska FHD PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Nicktoons.png"/></channel>
+  <channel id="Nick Jr.">
+    <display-name lang="pl">Nick Jr.</display-name>
+    <icon src="https://epg.ovh/logo/Nick+Jr..png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="NickJr.pl">
+    <display-name lang="pl">Nick Jr</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Nick+Jr..png"/></channel>
+  <channel id="nickjr.pl">
+    <display-name lang="pl">PL: Nick Jr Polska</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Nick+Jr..png"/></channel>
+  <channel id="Disney Channel">
+    <display-name lang="pl">Disney Channel HD</display-name>
+    <icon src="https://epg.ovh/logo/Disney+Channel.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="DisneyChannel.pl">
+    <display-name lang="pl">Disney Channel</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Disney+Channel.png"/></channel>
+  <channel id="Disneychannel.pl">
+    <display-name lang="pl">PL: Disney Channel HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Disney+Channel.png"/></channel>
+  <channel id="disneychannel.pl">
+    <display-name lang="pl">Disney Channel HD PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Disney+Channel.png"/></channel>
+  <channel id="Disney Junior">
+    <display-name lang="pl">Disney Junior</display-name>
+    <icon src="https://epg.ovh/logo/Disney+Junior.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="DisneyJunior.pl">
+    <display-name lang="pl">Disney Junior PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Disney+Junior.png"/></channel>
+  <channel id="DisneyJr.pl">
+    <display-name lang="pl">PL: Disney Junior</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Disney+Junior.png"/></channel>
+  <channel id="Disney XD">
+    <display-name lang="pl">Disney XD</display-name>
+    <icon src="https://epg.ovh/logo/Disney+XD.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="DisneyXD.pl">
+    <display-name lang="pl">PL: Disney XD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Disney+XD.png"/></channel>
+  <channel id="BBC CBeebies">
+    <display-name lang="pl">CBeebies</display-name>
+    <icon src="https://epg.ovh/logo/BBC+CBeebies.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="BBCCbeebies.pl">
+    <display-name lang="pl">BBC CBeebies</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/BBC+CBeebies.png"/></channel>
+  <channel id="CBeebies.pl">
+    <display-name lang="pl">PL: BBC CBeebies</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/BBC+CBeebies.png"/></channel>
+  <channel id="BBCCbeebies">
+    <display-name lang="pl">BBC Cbeebies</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/BBC+CBeebies.png"/></channel>
+  <channel id="Cbeebies.pl">
+    <display-name lang="pl">Cbeebies</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/BBC+CBeebies.png"/></channel>
+  <channel id="Teletoon">
+    <display-name lang="pl">Teletoon+ HD</display-name>
+    <icon src="https://epg.ovh/logo/Teletoon.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Teletoon.pl">
+    <display-name lang="pl">PL: Teletoon+ HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Teletoon.png"/></channel>
+  <channel id="teleTOON+ HD">
+    <display-name lang="pl">TeleToon+</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Teletoon.png"/></channel>
+  <channel id="Minimini+">
+    <display-name lang="pl">MiniMini+ HD</display-name>
+    <icon src="https://epg.ovh/logo/Minimini%2b.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="MiniMini.pl">
+    <display-name lang="pl">Minimini+ HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Minimini%2b.png"/></channel>
+  <channel id="Minimini.pl">
+    <display-name lang="pl">Mini Mini</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Minimini%2b.png"/></channel>
+  <channel id="MINIMINI.pl">
+    <display-name lang="pl">PL: MiniMini HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Minimini%2b.png"/></channel>
+  <channel id="Minimini+.pl">
+    <display-name lang="pl">Minimini+</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Minimini%2b.png"/></channel>
+  <channel id="JimJam Polsat">
+    <display-name lang="pl">JimJam Polsat</display-name>
+    <icon src="https://epg.ovh/logo/JimJam+Polsat.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="JimJamPolsat.pl">
+    <display-name lang="pl">JimJam</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/JimJam+Polsat.png"/></channel>
+  <channel id="JimJam.pl">
+    <display-name lang="pl">PL: JimJam</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/JimJam+Polsat.png"/></channel>
+  <channel id="PolsatJimJam">
+    <display-name lang="pl">Polsat JimJam</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/JimJam+Polsat.png"/></channel>
+  <channel id="Top Kids HD">
+    <display-name lang="pl">Top Kids HD</display-name>
+    <icon src="https://epg.ovh/logo/Top+Kids+HD.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="pl">Baby TV</display-name>
+    <icon src="https://epg.ovh/logo/Baby+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="BabyTV.pl">
+    <display-name lang="pl">PL: Baby TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Baby+TV.png"/></channel>
+  <channel id="Duck TV">
+    <display-name lang="pl">Duck TV</display-name>
+    <icon src="https://epg.ovh/logo/Duck+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVP ABC">
+    <display-name lang="pl">TVP ABC</display-name>
+    <icon src="https://epg.ovh/logo/TVP+ABC.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVPABC.pl">
+    <display-name lang="pl">PL: TVP ABC</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+ABC.png"/></channel>
+  <channel id="TVP 3 Warszawa">
+    <display-name lang="pl">TVP Warszawa</display-name>
+    <icon src="https://epg.ovh/logo/TVP+3+Warszawa.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVPWarszawa.pl">
+    <display-name lang="pl">TVP 3 Warszawa</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+3+Warszawa.png"/></channel>
+  <channel id="TVP3.pl">
+    <display-name lang="pl">TVP 3</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+3+Warszawa.png"/></channel>
+  <channel id="TVP3Warszawa.pl">
+    <display-name lang="pl">PL: TVP 3</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+3+Warszawa.png"/></channel>
+  <channel id="TVP 3 Bialystok">
+    <display-name lang="pl">TVP Białystok</display-name>
+    <icon src="https://epg.ovh/logo/TVP+3+Bialystok.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVP 3 Krakow">
+    <display-name lang="pl">TVP Krakow</display-name>
+    <icon src="https://epg.ovh/logo/TVP+3+Krakow.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVP 3 Katowice">
+    <display-name lang="pl">TVP Katowice</display-name>
+    <icon src="https://epg.ovh/logo/TVP+3+Katowice.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVP 3 Szczecin">
+    <display-name lang="pl">TVP Szczecin</display-name>
+    <icon src="https://epg.ovh/logo/TVP+3+Szczecin.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVP 3 Gdansk">
+    <display-name lang="pl">TVP Gdańsk</display-name>
+    <icon src="https://epg.ovh/logo/TVP+3+Gdansk.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Toya">
+    <display-name lang="pl">Toya TV</display-name>
+    <icon src="https://epg.ovh/logo/Toya.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVT">
+    <display-name lang="pl">TVT</display-name>
+    <icon src="https://epg.ovh/logo/TVT.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="ASTA TV">
+    <display-name lang="pl">ASTA TV</display-name>
+    <icon src="https://epg.ovh/logo/ASTA+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="ProArt">
+    <display-name lang="pl">ProArt</display-name>
+    <icon src="https://epg.ovh/logo/ProArt.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="INEA Stadion">
+    <display-name lang="pl">INEA Stadion</display-name>
+    <icon src="https://epg.ovh/logo/INEA+Stadion.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TV TORUN">
+    <display-name lang="pl">TV TORUN</display-name>
+    <icon src="https://epg.ovh/logo/TV+TORUN.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="SFERA TV">
+    <display-name lang="pl">SFERA TV</display-name>
+    <icon src="https://epg.ovh/logo/SFERA+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TV KUJAWY">
+    <display-name lang="pl">TV Kujawy</display-name>
+    <icon src="https://epg.ovh/logo/TV+KUJAWY.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CW24 TV">
+    <display-name lang="pl">CW24 TV</display-name>
+    <icon src="https://epg.ovh/logo/CW24+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TV ZGORZELEC">
+    <display-name lang="pl">TV ZGORZELEC</display-name>
+    <icon src="https://epg.ovh/logo/TV+ZGORZELEC.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="FMT">
+    <display-name lang="pl">FMT</display-name>
+    <icon src="https://epg.ovh/logo/FMT.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Stingray Brava">
+    <display-name lang="pl">Stingray Brava HD</display-name>
+    <icon src="https://epg.ovh/logo/Stingray+Brava.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Stingray DJAZZtv">
+    <display-name lang="pl">Stingray DJAZZ.tv HD</display-name>
+    <icon src="https://epg.ovh/logo/Stingray+DJAZZtv.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Music Box UA HD">
+    <display-name lang="pl">Music Box UA HD</display-name>
+    <icon src="https://epg.ovh/logo/Music+Box+UA+HD.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="MEZOO LIVE">
+    <display-name lang="pl">Mezzo Live HD</display-name>
+    <icon src="https://epg.ovh/logo/MEZOO+LIVE.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="MEZZO">
+    <display-name lang="pl">MEZZO</display-name>
+    <icon src="https://epg.ovh/logo/MEZZO.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Jazz">
+    <display-name lang="pl">Jazz HD</display-name>
+    <icon src="https://epg.ovh/logo/Jazz.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TWOJA TV">
+    <display-name lang="pl">Twoja.TV HD</display-name>
+    <icon src="https://epg.ovh/logo/TWOJA+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TwojaTV.pl">
+    <display-name lang="pl">PL: Twoja TV HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TWOJA+TV.png"/></channel>
+  <channel id="Opoka TV">
+    <display-name lang="pl">Opoka TV HD</display-name>
+    <icon src="https://epg.ovh/logo/Opoka+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Trace Urban">
+    <display-name lang="pl">Trace Urban HD</display-name>
+    <icon src="https://epg.ovh/logo/Trace+Urban.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TraceUrban.pl">
+    <display-name lang="pl">Trace Urban PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Trace+Urban.png"/></channel>
+  <channel id="Traceurban.pl">
+    <display-name lang="pl">Trace TV PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Trace+Urban.png"/></channel>
+  <channel id="traceurban.pl">
+    <display-name lang="pl">Trace Urban</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Trace+Urban.png"/></channel>
+  <channel id="Trace.pl">
+    <display-name lang="pl">PL: Trace Urban</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Trace+Urban.png"/></channel>
+  <channel id="TraceTV.pl">
+    <display-name lang="pl">Trace TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Trace+Urban.png"/></channel>
+  <channel id="POWER TV">
+    <display-name lang="pl">Power TV HD</display-name>
+    <icon src="https://epg.ovh/logo/POWER+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PowerTV.pl">
+    <display-name lang="pl">Power TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/POWER+TV.png"/></channel>
+  <channel id="powertv.pl">
+    <display-name lang="pl">PL: Power TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/POWER+TV.png"/></channel>
+  <channel id="Nuta TV">
+    <display-name lang="pl">Nuta TV HD</display-name>
+    <icon src="https://epg.ovh/logo/Nuta+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="NutaTV.pl">
+    <display-name lang="pl">Nuta TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Nuta+TV.png"/></channel>
+  <channel id="Nuta.TV PL">
+    <display-name lang="pl">PL: Nuta TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Nuta+TV.png"/></channel>
+  <channel id="VH1">
+    <display-name lang="pl">VH1</display-name>
+    <icon src="https://epg.ovh/logo/VH1.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="VH1.pl">
+    <display-name lang="pl">VH1 Polska</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/VH1.png"/></channel>
+  <channel id="VH1European.pl">
+    <display-name lang="pl">PL: VH1</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/VH1.png"/></channel>
+  <channel id="VH1 Classic">
+    <display-name lang="pl">VH1 Classic</display-name>
+    <icon src="https://epg.ovh/logo/VH1+Classic.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Stars TV">
+    <display-name lang="pl">Stars.TV HD</display-name>
+    <icon src="https://epg.ovh/logo/Stars+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="StarsTV.pl">
+    <display-name lang="pl">Stars TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Stars+TV.png"/></channel>
+  <channel id="starstv.pl">
+    <display-name lang="pl">PL: STARS.TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Stars+TV.png"/></channel>
+  <channel id="Vox Music TV">
+    <display-name lang="pl">VOX Music TV</display-name>
+    <icon src="https://epg.ovh/logo/Vox+Music+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="VoxMusicTV.pl">
+    <display-name lang="pl">Music VOX</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Vox+Music+TV.png"/></channel>
+  <channel id="VoxMusicTVa.pl">
+    <display-name lang="pl">PL: VOX MUSIC TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Vox+Music+TV.png"/></channel>
+  <channel id="To!TV">
+    <display-name lang="pl">To!TV</display-name>
+    <icon src="https://epg.ovh/logo/To!TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TO!TV.pl">
+    <display-name lang="pl">TOTV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/To!TV.png"/></channel>
+  <channel id="TOTV.pl">
+    <display-name lang="pl">PL: TO!TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/To!TV.png"/></channel>
+  <channel id="Polo TV">
+    <display-name lang="pl">Polo TV</display-name>
+    <icon src="https://epg.ovh/logo/Polo+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PoloTV.pl">
+    <display-name lang="pl">PL: Polo TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polo+TV.png"/></channel>
+  <channel id="polotva.pl">
+    <display-name lang="pl">Polo Party TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polo+TV.png"/></channel>
+  <channel id="Polsat Music">
+    <display-name lang="pl">Polsat Music HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Music.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatMusic.pl">
+    <display-name lang="pl">PL: Polsat Music</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Music.png"/></channel>
+  <channel id="polsatmusic.pl">
+    <display-name lang="pl">Polsat Music</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Music.png"/></channel>
+  <channel id="Disco Polo Music">
+    <display-name lang="pl">Disco Polo Music</display-name>
+    <icon src="https://epg.ovh/logo/Disco+Polo+Music.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="DiscoPoloMusic.pl">
+    <display-name lang="pl">PL: Disco Polo Music</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Disco+Polo+Music.png"/></channel>
+  <channel id="Kino Polska Muzyka">
+    <display-name lang="pl">Kino Polska Muzyka</display-name>
+    <icon src="https://epg.ovh/logo/Kino+Polska+Muzyka.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="KinoPolskaMuzyka.pl">
+    <display-name lang="pl">PL: Kino Polska Muzyka</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Kino+Polska+Muzyka.png"/></channel>
+  <channel id="kinopolskamuzyka.pl">
+    <display-name lang="pl">Kino Polska Muzyka HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Kino+Polska+Muzyka.png"/></channel>
+  <channel id="MTV Classic">
+    <display-name lang="pl">MTV Classic</display-name>
+    <icon src="https://epg.ovh/logo/MTV+Classic.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="MTV Hits">
+    <display-name lang="pl">MTV Hits</display-name>
+    <icon src="https://epg.ovh/logo/MTV+Hits.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="MTV Base">
+    <display-name lang="pl">MTV Base</display-name>
+    <icon src="https://epg.ovh/logo/MTV+Base.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="MTV Dance">
+    <display-name lang="pl">MTV Dance</display-name>
+    <icon src="https://epg.ovh/logo/MTV+Dance.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="MTVDance.pl">
+    <display-name lang="pl">MTV Dance HD PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/MTV+Dance.png"/></channel>
+  <channel id="MTV Rocks">
+    <display-name lang="pl">MTV Rocks</display-name>
+    <icon src="https://epg.ovh/logo/MTV+Rocks.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="MTVRocks.pl">
+    <display-name lang="pl">MTV Rocks PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/MTV+Rocks.png"/></channel>
+  <channel id="MTV Music">
+    <display-name lang="pl">MTV Music</display-name>
+    <icon src="https://epg.ovh/logo/MTV+Music.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="MTV Live HD">
+    <display-name lang="pl">MTV Live HD</display-name>
+    <icon src="https://epg.ovh/logo/MTV+Live+HD.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="MTVLiveHD.pl">
+    <display-name lang="pl">PL: MTV Live HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/MTV+Live+HD.png"/></channel>
+  <channel id="MTVNHD.pl">
+    <display-name lang="pl">MTV Live</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/MTV+Live+HD.png"/></channel>
+  <channel id="MTV Polska">
+    <display-name lang="pl">MTV Polska HD</display-name>
+    <icon src="https://epg.ovh/logo/MTV+Polska.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="MTVPolska.pl">
+    <display-name lang="pl">MTV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/MTV+Polska.png"/></channel>
+  <channel id="mtvpolska.pl">
+    <display-name lang="pl">PL: MTV Polska HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/MTV+Polska.png"/></channel>
+  <channel id="MTV.pl">
+    <display-name lang="pl">PL: MTV POLSKA</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/MTV+Polska.png"/></channel>
+  <channel id="Eska Rock TV">
+    <display-name lang="pl">Eska Rock TV</display-name>
+    <icon src="https://epg.ovh/logo/Eska+Rock+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="EskaRockTV.pl">
+    <display-name lang="pl">Eska Rock </display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eska+Rock+TV.png"/></channel>
+  <channel id="Eska TV Extra">
+    <display-name lang="pl">Eska TV Extra</display-name>
+    <icon src="https://epg.ovh/logo/Eska+TV+Extra.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="EskaTVExtra.pl">
+    <display-name lang="pl">PL: ESKA TV Extra</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eska+TV+Extra.png"/></channel>
+  <channel id="eskatvextra.pl">
+    <display-name lang="pl">Eska Party</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eska+TV+Extra.png"/></channel>
+  <channel id="Eska TV">
+    <display-name lang="pl">Eska TV</display-name>
+    <icon src="https://epg.ovh/logo/Eska+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="EskaTV.pl">
+    <display-name lang="pl">PL: Eska TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eska+TV.png"/></channel>
+  <channel id="ESKATV.pl">
+    <display-name lang="pl">ESKA TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eska+TV.png"/></channel>
+  <channel id="4Fun Gold">
+    <display-name lang="pl">4FUN GOLD</display-name>
+    <icon src="https://epg.ovh/logo/4Fun+Gold.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="4FUN HITS">
+    <display-name lang="pl">4FUN GOLD HITS</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/4Fun+Gold.png"/></channel>
+  <channel id="4FunGoldHits.pl">
+    <display-name lang="pl">4Fun Gold Hits</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/4Fun+Gold.png"/></channel>
+  <channel id="4FunHits.pl">
+    <display-name lang="pl">PL: 4Fun Gold Hits</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/4Fun+Gold.png"/></channel>
+  <channel id="4 Fun Dance">
+    <display-name lang="pl">4FUN DANCE</display-name>
+    <icon src="https://epg.ovh/logo/4+Fun+Dance.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="4FunFitDance.pl">
+    <display-name lang="pl">4Fun Dance</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/4+Fun+Dance.png"/></channel>
+  <channel id="4FunDance.pl">
+    <display-name lang="pl">PL: 4Fun Dance</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/4+Fun+Dance.png"/></channel>
+  <channel id="4fun TV">
+    <display-name lang="pl">4FUN.TV</display-name>
+    <icon src="https://epg.ovh/logo/4fun+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="4funTV.pl">
+    <display-name lang="pl">4Fun.TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/4fun+TV.png"/></channel>
+  <channel id="4fun.pl">
+    <display-name lang="pl">PL: 4Fun TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/4fun+TV.png"/></channel>
+  <channel id="PPV">
+    <display-name lang="pl">PPV</display-name>
+    <icon src="https://epg.ovh/logo/PPV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="KSW">
+    <display-name lang="pl">KSW HD</display-name>
+    <icon src="https://epg.ovh/logo/KSW.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PPV KSW">
+    <display-name lang="pl">PL: PPV KSW FIGHTS</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/KSW.png"/></channel>
+  <channel id="KSW.pl">
+    <display-name lang="pl">PPV KSW XX HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/KSW.png"/></channel>
+  <channel id="GINX TV">
+    <display-name lang="pl">GINX Esports TV HD</display-name>
+    <icon src="https://epg.ovh/logo/GINX+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Gametoon">
+    <display-name lang="pl">Gametoon HD</display-name>
+    <icon src="https://epg.ovh/logo/Gametoon.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Polsat Games">
+    <display-name lang="pl">Polsat Games HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Games.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatGames.pl">
+    <display-name lang="pl">PL: Polsat Games HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Games.png"/></channel>
+  <channel id="PolsatGames">
+    <display-name lang="pl">Polsat Games</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Games.png"/></channel>
+  <channel id="Canal+ Now">
+    <display-name lang="pl">Canal+ Now HD</display-name>
+    <icon src="https://epg.ovh/logo/Canal%2b+Now.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CanalPlusNow.pl">
+    <display-name lang="pl">PL: Canal+ Now</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Now.png"/></channel>
+  <channel id="Canal+Now.pl">
+    <display-name lang="pl">Canal+ Now</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Now.png"/></channel>
+  <channel id="Polsat Sport Premium 6">
+    <display-name lang="pl">Polsat Sport Premium 6 HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Sport+Premium+6.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatSportPremium6.pl">
+    <display-name lang="pl">Polsat Sport Premium 6 PPV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport+Premium+6.png"/></channel>
+  <channel id="PolsatSportPremium6">
+    <display-name lang="pl">Polsat Sport Premium 6</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport+Premium+6.png"/></channel>
+  <channel id="Polsat Sport Premium 5">
+    <display-name lang="pl">Polsat Sport Premium 5 HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Sport+Premium+5.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatSportPremium5.pl">
+    <display-name lang="pl">Polsat Sport Premium 5 PPV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport+Premium+5.png"/></channel>
+  <channel id="PolsatSportPremium5">
+    <display-name lang="pl">Polsat Sport Premium 5</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport+Premium+5.png"/></channel>
+  <channel id="Polsat Sport Premium 4">
+    <display-name lang="pl">Polsat Sport Premium 4 HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Sport+Premium+4.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatSportPremium4.pl">
+    <display-name lang="pl">Polsat Sport Premium 4 PPV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport+Premium+4.png"/></channel>
+  <channel id="PolsatSportPremium4">
+    <display-name lang="pl">Polsat Sport Premium 4</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport+Premium+4.png"/></channel>
+  <channel id="Polsat Sport Premium 3">
+    <display-name lang="pl">Polsat Sport Premium 3 HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Sport+Premium+3.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatSportPremium3.pl">
+    <display-name lang="pl">Polsat Sport Premium 3 PPV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport+Premium+3.png"/></channel>
+  <channel id="PolsatSportPremium3">
+    <display-name lang="pl">Polsat Sport Premium 3</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport+Premium+3.png"/></channel>
+  <channel id="Polsat Sport Premium 2">
+    <display-name lang="pl">Polsat Sport Premium 2 HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Sport+Premium+2.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatSportPremium2.pl">
+    <display-name lang="pl">PL: Polsat Sport Premium 2</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport+Premium+2.png"/></channel>
+  <channel id="PolsatSportPremium2">
+    <display-name lang="pl">Polsat Sport Premium 2</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport+Premium+2.png"/></channel>
+  <channel id="Polsat Sport Premium 1">
+    <display-name lang="pl">PL: POLSAT SPORT PREM. 1 HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Sport+Premium+1.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatSportPremium1.pl">
+    <display-name lang="pl">PL: POLSAT SPORT PREM. 1 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport+Premium+1.png"/></channel>
+  <channel id="PolsatSportPremium1">
+    <display-name lang="pl">PL: POLSAT SPORT PREM. 1 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport+Premium+1.png"/></channel>
+  <channel id="Extreme Sports Channel">
+    <display-name lang="pl">Extreme Sports HD</display-name>
+    <icon src="https://epg.ovh/logo/Extreme+Sports+Channel.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Extreme">
+    <display-name lang="pl">PL: Extreme Sports HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Extreme+Sports+Channel.png"/></channel>
+  <channel id="ExtremeSports.pl">
+    <display-name lang="pl">Extreme Sports HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Extreme+Sports+Channel.png"/></channel>
+  <channel id="ExtremeSportsChannel.pl">
+    <display-name lang="pl">Extreme Sports Channel</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Extreme+Sports+Channel.png"/></channel>
+  <channel id="Golf Channel">
+    <display-name lang="pl">Golf Channel HD</display-name>
+    <icon src="https://epg.ovh/logo/Golf+Channel.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="GolfChannel.pl">
+    <display-name lang="pl">PL: Golf Channel HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Golf+Channel.png"/></channel>
+  <channel id="GolfChannel">
+    <display-name lang="pl">Golf Channel</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Golf+Channel.png"/></channel>
+  <channel id="Sportklub">
+    <display-name lang="pl">Sportklub HD</display-name>
+    <icon src="https://epg.ovh/logo/Sportklub.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="SportKlub.pl">
+    <display-name lang="pl">SportKlub HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Sportklub.png"/></channel>
+  <channel id="sportklub.pl">
+    <display-name lang="pl">PL: Sport Klub</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Sportklub.png"/></channel>
+  <channel id="SportKlubHD">
+    <display-name lang="pl">Sport Klub HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Sportklub.png"/></channel>
+  <channel id="FIGHTKLUB">
+    <display-name lang="pl">Fightklub HD</display-name>
+    <icon src="https://epg.ovh/logo/FIGHTKLUB.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="FightKlub.pl">
+    <display-name lang="pl">FightKlub HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/FIGHTKLUB.png"/></channel>
+  <channel id="fightklub.pl">
+    <display-name lang="pl">PL: Fightklub HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/FIGHTKLUB.png"/></channel>
+  <channel id="FightBox">
+    <display-name lang="pl">Fightbox HD</display-name>
+    <icon src="https://epg.ovh/logo/FightBox.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="FightBox.pl">
+    <display-name lang="pl">FightBox HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/FightBox.png"/></channel>
+  <channel id="fightbox.pl">
+    <display-name lang="pl">PL: Fightbox HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/FightBox.png"/></channel>
+  <channel id="Polsat Sport Fight">
+    <display-name lang="pl">Polsat Sport Fight HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Sport+Fight.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Polsat Sport Fight HD">
+    <display-name lang="pl">PL: Polsat Sport Fight HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport+Fight.png"/></channel>
+  <channel id="PolsatSportFight.pl">
+    <display-name lang="pl">Polsat Sport Fight</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport+Fight.png"/></channel>
+  <channel id="Polsat Sport News">
+    <display-name lang="pl">Polsat Sport News HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Sport+News.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatSportNews.pl">
+    <display-name lang="pl">PL: Polsat Sport News HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport+News.png"/></channel>
+  <channel id="polsatsportnews.pl">
+    <display-name lang="pl">Polsat Sport News</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport+News.png"/></channel>
+  <channel id="Polsat Sport Extra">
+    <display-name lang="pl">Polsat Sport Extra HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Sport+Extra.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatSportExtra.pl">
+    <display-name lang="pl">PL: Polsat Sport Extra HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport+Extra.png"/></channel>
+  <channel id="polsatsportextraa.pl">
+    <display-name lang="pl">Polsat Sport Extra</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport+Extra.png"/></channel>
+  <channel id="Polsat Sport">
+    <display-name lang="pl">Polsat Sport HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+Sport.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatSport.pl">
+    <display-name lang="pl">Polsat Sport</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport.png"/></channel>
+  <channel id="polsatsport.pl">
+    <display-name lang="pl">PL: Polsat Sport HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+Sport.png"/></channel>
+  <channel id="Eurosport 2">
+    <display-name lang="pl">Eurosport 2 HD</display-name>
+    <icon src="https://epg.ovh/logo/Eurosport+2.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Eurosport2.pl">
+    <display-name lang="pl">PL: Eurosport 2 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eurosport+2.png"/></channel>
+  <channel id="eurosport2.pl">
+    <display-name lang="pl">Eurosport 2</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eurosport+2.png"/></channel>
+  <channel id="Eurosport">
+    <display-name lang="pl">Eurosport 1 HD</display-name>
+    <icon src="https://epg.ovh/logo/Eurosport.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Eurosport.pl">
+    <display-name lang="pl">Eurosport</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eurosport.png"/></channel>
+  <channel id="EuroSport.pl">
+    <display-name lang="pl">Eurosport 4K</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eurosport.png"/></channel>
+  <channel id="Eurosport 1 HD PL">
+    <display-name lang="pl">PL: Eurosport 1 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eurosport.png"/></channel>
+  <channel id="Eurosport1.pl">
+    <display-name lang="pl">Eurosport 1</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eurosport.png"/></channel>
+  <channel id="Eleven Sports 4">
+    <display-name lang="pl">Eleven Sports 4 HD</display-name>
+    <icon src="https://epg.ovh/logo/Eleven+Sports+4.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="ElevenSport4.pl">
+    <display-name lang="pl">Eleven Sports 4</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eleven+Sports+4.png"/></channel>
+  <channel id="ElevenSports4.pl">
+    <display-name lang="pl">PL: Eleven Sports 4 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eleven+Sports+4.png"/></channel>
+  <channel id="Eleven Sports 3">
+    <display-name lang="pl">Eleven Sports 3 HD</display-name>
+    <icon src="https://epg.ovh/logo/Eleven+Sports+3.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Eleven Extra">
+    <display-name lang="pl">Eleven Sports 3</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eleven+Sports+3.png"/></channel>
+  <channel id="ElevenSport3.pl">
+    <display-name lang="pl">PL: Eleven Sports 3 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eleven+Sports+3.png"/></channel>
+  <channel id="ElevenSports3.pl">
+    <display-name lang="pl">Eleven Sports 3 HD PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eleven+Sports+3.png"/></channel>
+  <channel id="Eleven Sports 2">
+    <display-name lang="pl">Eleven Sports 2 HD</display-name>
+    <icon src="https://epg.ovh/logo/Eleven+Sports+2.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="ElevenSports2.pl">
+    <display-name lang="pl">Eleven Sports 2</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eleven+Sports+2.png"/></channel>
+  <channel id="ElevenSport2.pl">
+    <display-name lang="pl">PL: Eleven Sports 2 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eleven+Sports+2.png"/></channel>
+  <channel id="Eleven Sports 1">
+    <display-name lang="pl">Eleven Sports 1 HD</display-name>
+    <icon src="https://epg.ovh/logo/Eleven+Sports+1.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Eleven">
+    <display-name lang="pl">Eleven Sports 1</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eleven+Sports+1.png"/></channel>
+  <channel id="ElevenSport1.pl">
+    <display-name lang="pl">PL: Eleven Sports 1 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eleven+Sports+1.png"/></channel>
+  <channel id="ElevenSports1.pl">
+    <display-name lang="pl">Eleven Sports 1 HD PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Eleven+Sports+1.png"/></channel>
+  <channel id="TVP Sport">
+    <display-name lang="pl">TVP Sport HD</display-name>
+    <icon src="https://epg.ovh/logo/TVP+Sport.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVPSport.pl">
+    <display-name lang="pl">TVP Sport</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+Sport.png"/></channel>
+  <channel id="tvpsport.pl">
+    <display-name lang="pl">PL: TVP Sport HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+Sport.png"/></channel>
+  <channel id="nsport+">
+    <display-name lang="pl">nSport+ HD</display-name>
+    <icon src="https://epg.ovh/logo/nsport%2b.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="nSport">
+    <display-name lang="pl">PL: nSport+ HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/nsport%2b.png"/></channel>
+  <channel id="nSport+.pl">
+    <display-name lang="pl">nSport+</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/nsport%2b.png"/></channel>
+  <channel id="Canal+ Sport 4 HD">
+    <display-name lang="pl">Canal+ Sport 4 HD</display-name>
+    <icon src="https://epg.ovh/logo/Canal%2b+Sport+4+HD.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CanalPlusSport4.pl">
+    <display-name lang="pl">Canal+ Sport 4</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Sport+4+HD.png"/></channel>
+  <channel id="Canal+ Sport 4 PL">
+    <display-name lang="pl">PL: Canal+  Sport 4 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Sport+4+HD.png"/></channel>
+  <channel id="Canal+ Sport 3 HD">
+    <display-name lang="pl">Canal+ Sport 3 HD</display-name>
+    <icon src="https://epg.ovh/logo/Canal%2b+Sport+3+HD.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CanalPlusSport3.pl">
+    <display-name lang="pl">Canal+ Sport 3</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Sport+3+HD.png"/></channel>
+  <channel id="Canal+ Sport 3 PL">
+    <display-name lang="pl">PL: Canal+ Sport 3 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Sport+3+HD.png"/></channel>
+  <channel id="Canal+ Sport 2">
+    <display-name lang="pl">Canal+ Sport 2 HD</display-name>
+    <icon src="https://epg.ovh/logo/Canal%2b+Sport+2.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CANALSport2.pl">
+    <display-name lang="pl">PL: Canal+ Sport 2 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Sport+2.png"/></channel>
+  <channel id="CanalPlusSport2.pl">
+    <display-name lang="pl">Canal+ Sport 2</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Sport+2.png"/></channel>
+  <channel id="Canal+ Sport">
+    <display-name lang="pl">Canal+ Sport HD</display-name>
+    <icon src="https://epg.ovh/logo/Canal%2b+Sport.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CANALSport.pl">
+    <display-name lang="pl">PL: Canal+ Sport HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Sport.png"/></channel>
+  <channel id="CanalPlusSport.pl">
+    <display-name lang="pl">Canal+ Sport</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Canal%2b+Sport.png"/></channel>
+  <channel id="TRWAM">
+    <display-name lang="pl">TV Trwam</display-name>
+    <icon src="https://epg.ovh/logo/TRWAM.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVTrwam.pl">
+    <display-name lang="pl">TVTrwam</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TRWAM.png"/></channel>
+  <channel id="Trwam.pl">
+    <display-name lang="pl">Trwam</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TRWAM.png"/></channel>
+  <channel id="Fox News">
+    <display-name lang="pl">Fox News</display-name>
+    <icon src="https://epg.ovh/logo/Fox+News.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="pl">CNN</display-name>
+    <icon src="https://epg.ovh/logo/CNN.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="CNN.nws">
+    <display-name lang="pl">CNN International</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/CNN.png"/></channel>
+  <channel id="CNNa.nws">
+    <display-name lang="pl">CNN International HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/CNN.png"/></channel>
+  <channel id="English Club HD">
+    <display-name lang="pl">English Club HD</display-name>
+    <icon src="https://epg.ovh/logo/English+Club+HD.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="France 24 HD">
+    <display-name lang="pl">France 24 HD</display-name>
+    <icon src="https://epg.ovh/logo/France+24+HD.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="France 24 English HD">
+    <display-name lang="pl">France 24 English HD</display-name>
+    <icon src="https://epg.ovh/logo/France+24+English+HD.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="WPolsce.pl">
+    <display-name lang="pl">wPolsce.pl HD</display-name>
+    <icon src="https://epg.ovh/logo/WPolsce.pl.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="wPolsce">
+    <display-name lang="pl">wPolsce.pl</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/WPolsce.pl.png"/></channel>
+  <channel id="WPolsce">
+    <display-name lang="pl">WPolsce.pl</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/WPolsce.pl.png"/></channel>
+  <channel id="Superstacja">
+    <display-name lang="pl">Superstacja HD</display-name>
+    <icon src="https://epg.ovh/logo/Superstacja.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Superstacja HD">
+    <display-name lang="pl">Superstacja</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Superstacja.png"/></channel>
+  <channel id="Superstacja.pl">
+    <display-name lang="pl">Superstacja PL</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Superstacja.png"/></channel>
+  <channel id="Republika TV">
+    <display-name lang="pl">TV Republika HD</display-name>
+    <icon src="https://epg.ovh/logo/Republika+TV.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVRepublika.pl">
+    <display-name lang="pl">TV Republika</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Republika+TV.png"/></channel>
+  <channel id="RepublikaTV.pl">
+    <display-name lang="pl">Republika TV</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Republika+TV.png"/></channel>
+  <channel id="republikatv.pl">
+    <display-name lang="pl">PL: TV Republika</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Republika+TV.png"/></channel>
+  <channel id="POLSAT NEWS 2">
+    <display-name lang="pl">Polsat News 2</display-name>
+    <icon src="https://epg.ovh/logo/POLSAT+NEWS+2.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatNews2.pl">
+    <display-name lang="pl">PL: Polsat News 2</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/POLSAT+NEWS+2.png"/></channel>
+  <channel id="Polsat News">
+    <display-name lang="pl">Polsat News HD</display-name>
+    <icon src="https://epg.ovh/logo/Polsat+News.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="PolsatNews.pl">
+    <display-name lang="pl">PL: Polsat News HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+News.png"/></channel>
+  <channel id="polsatnews.pl">
+    <display-name lang="pl">Polsat News</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/Polsat+News.png"/></channel>
+  <channel id="TVN 24 BiS">
+    <display-name lang="pl">TVN 24 BiS HD</display-name>
+    <icon src="https://epg.ovh/logo/TVN+24+BiS.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVN24_BiS_HD">
+    <display-name lang="pl">PL: TVN24 BiS HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN+24+BiS.png"/></channel>
+  <channel id="TVN24BiS.pl">
+    <display-name lang="pl">TVN24 BIS</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN+24+BiS.png"/></channel>
+  <channel id="TVN 24">
+    <display-name lang="pl">TVN 24 HD</display-name>
+    <icon src="https://epg.ovh/logo/TVN+24.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVN24.pl">
+    <display-name lang="pl">PL: TVN24 HD</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN+24.png"/></channel>
+  <channel id="TVN24">
+    <display-name lang="pl">PL: TVN 24</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVN+24.png"/></channel>
+  <channel id="TVP Info">
+    <display-name lang="pl">TVP Info HD</display-name>
+    <icon src="https://epg.ovh/logo/TVP+Info.png"/>
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="TVPInfo.pl">
+    <display-name lang="pl">PL: TVP-Info</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+Info.png"/></channel>
+  <channel id="tvpInfo.pl">
+    <display-name lang="pl">TVP Info</display-name>
+    <url>http://www.epg.ovh</url>
+  <icon src="https://epg.ovh/logo/TVP+Info.png"/></channel>
